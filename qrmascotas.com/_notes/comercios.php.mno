@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RdsetComercios" value="name:idComercio;datatype:int,name:nombre;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string,name:web;datatype:string,name:logo;datatype:string,name:imagen;datatype:string,name:destacado;datatype:string,name:especial;datatype:string,name:reciente;datatype:string,name:descripcion;datatype:string,name:dias_horarios;datatype:string,name:contacto;datatype:string,name:email;datatype:string,name:ingreso;datatype:date,name:idLocalidad;datatype:int,name:idSubrubro;datatype:int,name:idTexto;datatype:int" />
+</info>
